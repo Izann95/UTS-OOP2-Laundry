@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         LayananFactory factory = new LayananFactory();
 
-        System.out.println("=== SISTEM LAYANAN LAUNDRY UTB ===");
+        System.out.println("=== SISTEM LAYANAN LAUNDRY ===");
         System.out.print("Masukkan Nama Pelanggan: ");
         String nama = scanner.nextLine();
 
